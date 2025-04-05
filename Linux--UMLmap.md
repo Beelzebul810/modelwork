@@ -47,7 +47,7 @@ int vfs_open(const char *path, struct file *filp)
 
 
 #### Ⅲ、顺序图
-
+![image](https://github.com/Beelzebul810/modelwork/blob/main/img/%E5%B7%A5%E5%8E%82%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
 
 
 ### 2、抽象工厂模式
@@ -94,11 +94,11 @@ int usb_register_driver(struct usb_driver *driver)
 
 
 #### Ⅱ、类图
-
+![image](https://github.com/Beelzebul810/modelwork/blob/main/img/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E7%B1%BB%E5%9B%BE.png)
 
 
 #### Ⅲ、顺序图
-
+![image](https://github.com/Beelzebul810/modelwork/blob/main/img/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
 
 
 ### 3、单例模式
@@ -131,11 +131,11 @@ void print_current_pid(void)
 
 
 #### Ⅱ、类图
-
+![image](https://github.com/Beelzebul810/modelwork/blob/main/img/%E5%8D%95%E4%BE%8B%E7%B1%BB%E5%9B%BE.png)
 
 
 #### Ⅲ、顺序图
-
+![image](https://github.com/Beelzebul810/modelwork/blob/main/img/%E5%8D%95%E4%BE%8B%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
 
 
 ### 4、建造者模式
@@ -179,11 +179,11 @@ struct sk_buff *build_tcp_packet(void)
 
 
 #### Ⅱ、类图
-
+![image](https://github.com/Beelzebul810/modelwork/blob/main/img/%E5%BB%BA%E9%80%A0%E8%80%85%E7%B1%BB%E5%9B%BE.png)
 
 
 #### Ⅲ、顺序图
-
+![image](https://github.com/Beelzebul810/modelwork/blob/main/img/%E5%BB%BA%E9%80%A0%E8%80%85%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
 
 
 ### 5. 原型模式
@@ -226,8 +226,8 @@ pid_t kernel_thread(int (*fn)(void *), void *arg, unsigned long flags)
 
 
 #### Ⅱ、类图
-
+![image](https://github.com/Beelzebul810/modelwork/blob/main/img/%E5%8E%9F%E5%9E%8B%E7%B1%BB%E5%9B%BE.png)
 
 
 #### Ⅲ、顺序图
-
+![image](https://github.com/Beelzebul810/modelwork/blob/main/img/%E5%8E%9F%E5%9E%8B%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
