@@ -43,7 +43,7 @@ int vfs_open(const char *path, struct file *filp)
 ```
 
 #### Ⅱ、类图
-
+![image](https://github.com/Beelzebul810/modelwork/blob/main/img/%E5%B7%A5%E5%8E%82%E7%B1%BB%E5%9B%BE.png)
 
 
 #### Ⅲ、顺序图
